@@ -2,24 +2,22 @@
 
 ## 📊 Business Intelligence Solution for AtliQ Hardware
 
-A comprehensive multi-view dashboard built to transform AtliQ Hardware's raw data into actionable insights, spanning Finance, Sales, Marketing, Supply Chain, and Executive perspectives.
+A powerful, multi-view dashboard transforming AtliQ Hardware's raw data into actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive perspectives.
 
 ### 🎯 Problem Statement
-
-AtliQ Hardware, a rapidly growing consumer electronics company, was struggling with:
-- Data silos across departments leading to inconsistent reporting
-- Manual Excel-based reporting causing delays in decision making
-- Lack of real-time insights into key business metrics
-- Difficulty in tracking cross-functional performance indicators
-- Limited ability to identify market trends and opportunities
+AtliQ Hardware faced significant challenges:
+- Data silos causing inconsistent reporting
+- Manual Excel-based reporting delays
+- Lack of real-time insights
+- Difficulty tracking cross-functional performance
+- Limited ability to identify market trends
 
 ### 🔍 Solution Highlights
-
-- Processed and transformed 1M+ rows of raw data
-- Built interconnected dashboards using Power BI
-- Created automated reporting systems
-- Implemented drill-down capabilities for detailed analysis
-- Developed mobile-friendly visualizations
+- Processed 1M+ rows of raw data
+- Built interconnected Power BI dashboards
+- Implemented automated reporting systems
+- Added drill-down analysis capability
+- Created mobile-friendly visualizations
 
 ### 📈 Key Performance Indicators (KPIs)
 
@@ -59,10 +57,10 @@ AtliQ Hardware, a rapidly growing consumer electronics company, was struggling w
 - Strategic Initiative Tracking
 
 ### 🛠️ Built With
-- Power BI
-- DAX
-- SQL
-- Excel
+- **Power BI**
+- **DAX**
+- **SQL**
+- **Excel**
 
 ### 🎓 Project Context
 This dashboard was developed as part of the Power BI course curriculum from Codebasics, focusing on real-world data analysis and visualization techniques.
@@ -75,11 +73,14 @@ This dashboard was developed as part of the Power BI course curriculum from Code
 - Custom Theme Implementation
 
 ### 🔄 Future Updates
-- Integration with ML models
+- Integrating ML models
 - Advanced forecasting capabilities
 - Additional custom visuals
 - Automated reporting schedules
 - Enhanced mobile features
 
 ---
+
 *Note: This project uses sample data provided by Codebasics for educational purposes.*
+
+---
