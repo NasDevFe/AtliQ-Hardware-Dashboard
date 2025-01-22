@@ -1,5 +1,8 @@
 # AtliQ Hardware Dashboard
 
+### Link to view the Dashboard Live - 
+https://app.powerbi.com/reportEmbed?reportId=d3ad887b-21f9-4783-b6ea-c5010870ebda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
+
 ## 📊 Business Intelligence Solution for AtliQ Hardware
 
 A powerful, multi-view dashboard transforming AtliQ Hardware's raw data into actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive perspectives.
