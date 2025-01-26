@@ -1,7 +1,7 @@
 # AtliQ Hardware Dashboard
 
 ### Link to view the Dashboard Live - 
-https://app.powerbi.com/reportEmbed?reportId=d3ad887b-21f9-4783-b6ea-c5010870ebda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
+https://app.powerbi.com/view?r=eyJrIjoiZmNjMWJhOWUtMWI1Ni00MjZkLWJkZTMtMDg2OTY2YWVkN2Q4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 📊 Business Intelligence Solution for AtliQ Hardware
 
